@@ -61,3 +61,30 @@ div.case-study-images img {
 	width: 100%;
 	height: auto;
 }
+
+/*Footer*/
+
+
+.social-media-menu {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.social-media-menu li {
+  color: white;
+  background-color: black;
+  padding: 8px;
+  border-radius: 50%;
+  height: 36px;
+  width: 36px;
+  margin: 5px;
+}
+
+i._mi.dashicons {
+  color: white;
+}
+
+.menu-item {
+  display: flex;
+justify-content: center
